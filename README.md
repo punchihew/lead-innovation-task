@@ -48,6 +48,9 @@ Make sure you have the following installed:
 
 Verify installation by running these commands in your terminal:
 
+##Install dependencies:
+ npm install
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
