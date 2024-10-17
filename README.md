@@ -49,10 +49,18 @@ Make sure you have the following installed:
 Verify installation by running these commands in your terminal:
 
 ##  Install dependencies:
-- npm install
+- npx create-next-app@latest
+- "dependencies": {
+  "next": "14.2.15",
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0",
+  "swiper": "^11.1.14"
+}
+
 
 ## Running the Project
 
+- npm install
 - npm run dev
 
 
