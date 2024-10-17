@@ -1,9 +1,9 @@
 
 
-## Getting Started Next.js with Tailwind CSS Project
+## 👋 Getting Started Next.js with Tailwind CSS Project
 
 
-## Table of Contents
+## 👋 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -15,7 +15,7 @@
 - [License](#license)
 
 
-## Project Overview
+## 💻 Project Overview
 
 The project demonstrates the following:
 - Interactive user interface using **React Hooks** to manage state and lifecycle.
@@ -26,7 +26,7 @@ The project demonstrates the following:
 
 This project is fully responsive, adapting to different screen sizes to provide a seamless experience on desktop, tablet, and mobile devices.
 
-## Technologies Used
+## 💻 Technologies Used
 
 - **Next.js**: For server-side rendering and easy routing.
 - **React**: To build reusable UI components and manage state using **React Hooks**.
@@ -35,11 +35,11 @@ This project is fully responsive, adapting to different screen sizes to provide 
 - **Global CSS**: To manage consistent styles across components.
 - **Animations**: To enhance the user experience with smooth transitions and effects.
 
-## Getting Started
+## 💻 Getting Started
 
 Follow these instructions to run the project locally.
 
-### Prerequisites
+### 💻 Prerequisites
 
 Make sure you have the following installed:
 
@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 Verify installation by running these commands in your terminal:
 
-##  Install dependencies:
+## 💻  Install dependencies:
 - npx create-next-app@latest
 - "dependencies": {
   "next": "14.2.15",
@@ -58,7 +58,7 @@ Verify installation by running these commands in your terminal:
 }
 
 
-## Running the Project
+## 💻👋 Running the Project
 
 - npm install
 - npm run dev
