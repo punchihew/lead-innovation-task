@@ -48,10 +48,12 @@ Make sure you have the following installed:
 
 Verify installation by running these commands in your terminal:
 
-##Install dependencies:
- npm install
+##  Install dependencies:
+- npm install
 
+## Running the Project
 
+- npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
