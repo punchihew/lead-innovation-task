@@ -58,7 +58,7 @@ Verify installation by running these commands in your terminal:
 }
 
 
-## 💻👋 Running the Project
+## 💻 Running the Project
 
 - npm install
 - npm run dev
@@ -67,7 +67,7 @@ Verify installation by running these commands in your terminal:
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Learn More
+## 💬 Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
